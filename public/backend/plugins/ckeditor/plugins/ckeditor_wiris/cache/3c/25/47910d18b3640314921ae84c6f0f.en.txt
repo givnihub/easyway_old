@@ -1,0 +1,1 @@
+{"result":{"text":"1 capital kappa capital omega comma space 1 space capital omega"},"status":"ok"}

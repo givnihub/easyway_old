@@ -1,0 +1,1 @@
+{"result":{"text":"1 space M capital omega comma space 1 divided by 2 capital omega"},"status":"ok"}
