@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator R subscript 1 space end subscript plus space R subscript 2 over denominator R subscript 1 space end subscript minus space R subscript 2 end fraction"},"status":"ok"}

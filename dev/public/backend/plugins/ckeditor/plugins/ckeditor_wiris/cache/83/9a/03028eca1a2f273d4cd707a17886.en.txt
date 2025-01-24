@@ -1,0 +1,1 @@
+{"result":{"text":"2 capital kappa capital omega 1"},"status":"ok"}

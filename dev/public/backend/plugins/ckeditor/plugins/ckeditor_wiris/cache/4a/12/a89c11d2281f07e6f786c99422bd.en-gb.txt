@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 10 space plus 14 divided by 3 space minus 1 space close parentheses"},"status":"ok"}

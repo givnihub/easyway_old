@@ -1,0 +1,59 @@
+.box_dashboard {
+    display: block;
+    font-size: 15px;
+    margin-top: 38px;
+    white-space: nowrap;
+    margin-left: 19px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.overlay--bottom {
+  position: absolute;
+    height: 23%;
+    width: 85%;
+    display: flex;
+    background: transparent;
+    bottom: 70px;
+    right: 250px;
+}
+
+.overlay--fullscreen {
+    position: absolute;
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    background: transparent;
+    top: 0;
+    right: 0;
+}
+.overlay--youtube {
+    position: absolute;
+    height: 5%;
+    width: 8%;
+    display: flex;
+    background: transparent;
+    bottom: 15px;
+    right: 15px;
+}
+
+.overlay--bottom-small {
+    position: absolute;
+    height: 23%;
+    width: 100%;
+    display: flex;
+    background: transparent;
+    bottom: 70px;
+    right: 10px;
+}
+
+.overlay--fullscreen-small {
+    position: absolute;
+    height: 2vh;
+    width: 100%;
+    display: flex;
+    background: transparent;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}

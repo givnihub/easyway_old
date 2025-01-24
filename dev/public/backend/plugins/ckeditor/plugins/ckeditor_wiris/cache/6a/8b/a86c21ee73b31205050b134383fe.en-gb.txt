@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator space 35 plus 39 plus 41 plus 46 plus 27 plus x over denominator 6 end fraction equals 38\n\n188 plus x equals 228\nx equals space 40"},"status":"ok"}

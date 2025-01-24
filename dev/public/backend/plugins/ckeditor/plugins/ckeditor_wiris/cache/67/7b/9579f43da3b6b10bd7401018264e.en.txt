@@ -1,0 +1,1 @@
+{"result":{"text":"1 capital kappa capital omega 1 divided by 2"},"status":"ok"}

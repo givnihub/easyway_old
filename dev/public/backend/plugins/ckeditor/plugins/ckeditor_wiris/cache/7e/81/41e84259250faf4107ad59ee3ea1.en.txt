@@ -1,0 +1,1 @@
+{"result":{"text":"10 capital omega comma 50 capital omega"},"status":"ok"}
